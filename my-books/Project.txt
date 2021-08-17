@@ -1,0 +1,4 @@
+﻿this is project based on Udemy tutorial
+The Complete guide to .NET CORE(.NET 5) Web API
+Open github repository https://github.com/etrupja?tab=stars
+login to  github yahoo email, password @Murka123 
